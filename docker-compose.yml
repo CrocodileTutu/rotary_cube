@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+
+  rotary_cube:
+
+    build:
+
+      context: .
+
+      dockerfile: ./Dockerfile-2
+
+    image: rotary_cube
+
+    ports:
+
+      - 8081:80
