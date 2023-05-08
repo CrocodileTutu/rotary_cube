@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./style.css">
 </head>
-
 <body>
     <a href="/">
     <div class="cube">
