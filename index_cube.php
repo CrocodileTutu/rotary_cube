@@ -1,3 +1,12 @@
+<?php
+    /**
+     * 
+     * result:
+     *    http://persimmon.we.bs/rotary_cube/index_cube.php
+     * 
+     * 
+     */ 
+?>
 <!DOCTYPE html>
 <html lang="en">
 
