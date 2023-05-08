@@ -19,7 +19,7 @@
                     <br>
                     <br>
                     <h2 style="color:skyblue">How are you today?</h2>
-                    <h2></h2>
+                    <h2>Enjoy surfing</h2>
                 </center>
             </div>
 
