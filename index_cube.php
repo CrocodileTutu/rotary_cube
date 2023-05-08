@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <a href="/">
+    <a href="/login">
         <div class="cube">
             <div class="top">
                 <center>
