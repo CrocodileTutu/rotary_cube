@@ -8,28 +8,29 @@
 </head>
 <body>
     <a href="/">
-    <div class="cube">
-        <div class="top">
-            <center>
-                <br>
-                <br>
-                <h1>Welcome</h1>
-                <h1>to</h1>
-                <h1>Cube Page</h1>
-                <br>
-                <br>
-                <h2 style="color:skyblue">How are you today?</h2>
-                <h2></h2>
-            </center>
+        <div class="cube">
+            <div class="top">
+                <center>
+                    <br>
+                    <br>
+                    <h1>Welcome</h1>
+                    <h1>to</h1>
+                    <h1>Cube Page</h1>
+                    <br>
+                    <br>
+                    <h2 style="color:skyblue">How are you today?</h2>
+                    <h2></h2>
+                </center>
+            </div>
+
+            <div>
+                <span style="--i:0;"></span>
+                <span style="--i:1;"></span>
+                <span style="--i:2;"></span>
+                <span style="--i:3;"></span>
+            </div>
         </div>
-        </a>
-        <div>
-            <span style="--i:0;"></span>
-            <span style="--i:1;"></span>
-            <span style="--i:2;"></span>
-            <span style="--i:3;"></span>
-        </div>
-    </div>
+    </a>
 </body>
 
 </html>
