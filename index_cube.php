@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <a href="/">
     <div class="cube">
         <div class="top">
             <center>
@@ -22,6 +23,7 @@
                 <h2></h2>
             </center>
         </div>
+        </a>
         <div>
             <span style="--i:0;"></span>
             <span style="--i:1;"></span>
