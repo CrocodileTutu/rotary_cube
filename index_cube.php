@@ -23,10 +23,10 @@
                 <center>
                     <br>
                     <br>
-                    <h1>Hola Alba,</h1>
-                    <h1>hola Omar</h1>
-                    <h1>Soy cubo de Juegos</h1>
-                    <h1></h1>
+                    <h1>Hola,</h1>
+                    <h1>Alba y Omar</h1>
+                    <h1>Soy cubo de</h1>
+                    <h1>Juegos</h1>
                     <br>
                     <br>
                     <h2 style="color:skyblue">&iexcl;Hazme clic&#33;</h2>
