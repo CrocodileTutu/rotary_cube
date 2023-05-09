@@ -30,7 +30,7 @@
                     <br>
                     <br>
                     <h2 style="color:skyblue">&iexcl;Hazme clic&#33;</h2>
-                    <h2>&#9728;&spnb;Divi&#233;rtete&spnb;&#9728;</h2>
+                    <h2>&#9728;&nbsp;Divi&#233;rtete&nbsp;&#9728;</h2>
                 </center>
             </div>
 
