@@ -17,19 +17,20 @@
     <link rel="stylesheet" href="cube_style">
 </head>
 <body>
-    <a href="/login">
+    <a href="https://www.colorear-online.com/">
         <div class="cube">
             <div class="top">
                 <center>
                     <br>
                     <br>
-                    <h1>Welcome</h1>
-                    <h1>to</h1>
-                    <h1>Cube Page</h1>
+                    <h1>Hola Alba,</h1>
+                    <h1>hola Omar</h1>
+                    <h1>Soy cubo de Juegos</h1>
+                    <h1></h1>
                     <br>
                     <br>
-                    <h2 style="color:skyblue">How are you today?</h2>
-                    <h2>Enjoy surfing</h2>
+                    <h2 style="color:skyblue">&iexcl;Hazme clic&#33;</h2>
+                    <h2>&#9728;&spnb;Divi&#233;rtete&spnb;&#9728;</h2>
                 </center>
             </div>
 
