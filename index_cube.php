@@ -3,7 +3,8 @@
      * 
      * result:
      *    http://persimmon.we.bs/rotary_cube/index_cube.php
-     * 
+     *      
+     *    http://persimmon.we.bs/pau
      * 
      */ 
 ?>
@@ -13,7 +14,7 @@
 <head>
     <title>Welcome to Cube Page</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="cube_style">
 </head>
 <body>
     <a href="/login">
